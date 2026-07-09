@@ -1,0 +1,16 @@
+{
+    "name": "FizzySteamworks",
+    "references": [
+        "Mirror",
+        "com.rlabrecque.steamworks.net"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,27 @@
+* text=auto
+
+*.cs text
+*.shader text
+*.shadergraph text
+*.mat text
+*.prefab text
+*.unity text
+*.asset text
+*.meta text
+*.controller text
+*.anim text
+*.asmdef text
+*.json text
+*.txt text
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tif binary
+*.tiff binary
+*.fbx binary
+*.ogg binary
+*.mp3 binary
+*.wav binary
+*.webm binary
+*.dll binary
